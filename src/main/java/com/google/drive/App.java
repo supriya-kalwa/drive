@@ -12,5 +12,6 @@ public class App
     {
     	
         System.out.println(WordUtils.capitalize( "hello world!" ));
+ System.out.println(WordUtils.capitalize( "This is modified code-2" ));
     }
 }
